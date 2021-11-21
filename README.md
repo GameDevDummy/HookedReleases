@@ -7,10 +7,10 @@
 
 ## Liks:
 
->> [itch.io](https://tanteturner.itch.io/hooked)
+[itch.io](https://tanteturner.itch.io/hooked)
 
->> [speedrun.com](https://www.speedrun.com/hooked/full_game#Any)
+[speedrun.com](https://www.speedrun.com/hooked/full_game#Any)
 
->> [Discord](https://discord.gg/QvnKvWf3CF)
+[Discord](https://discord.gg/QvnKvWf3CF)
 
->> [Twitter](https://twitter.com/Hooked_Game)
+[Twitter](https://twitter.com/Hooked_Game)
