@@ -5,8 +5,7 @@
 - [Version 1.2](./ChangelogV1.2.md)
 - [Version 1.3](./ChangelogV1.3.md)
 - [Version 1.3.1](./ChangelogV1.3.1.md)
-- [Version 1.3.2](./ChangelogV1.3.2md)
-- 
+- [Version 1.3.2](./ChangelogV1.3.2.md)
 ## Liks:
 
 [itch.io](https://tanteturner.itch.io/hooked)
